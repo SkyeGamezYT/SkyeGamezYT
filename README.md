@@ -5,9 +5,10 @@
 - I know no coding and I somehow edit Beat Saber mods
 
 ### Links
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SkyeGamez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ## Stats
+https://github-readme-stats-gray-zeta.vercel.app/api?username=SkyeGamezYT)](https://github.com/SkyeGamezYT/github-readme-stats)
 
 
 

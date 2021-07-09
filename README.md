@@ -8,7 +8,8 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ## Stats
-github-readme-stats-gray-zeta.vercel.app/api?username=SkyeGamezYT)](https://github.com/SkyeGamezYT/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=SkyeGamezYT&theme=tokyonight&hide=contribs&show_icons=true)
+
 
 
 
